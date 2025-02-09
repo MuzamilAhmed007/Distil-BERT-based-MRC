@@ -16,7 +16,7 @@ This repository contains implementations of **Machine Reading Comprehension (MRC
 Clone the Repository  
 
 git clone https://github.com/MuzamilAhmed007/Distil-BERT-based-MRC.git
-git clone https://github.com/yourusername/WikiQA-MRC.git
+
 cd WikiQA-MRC
 
 Install Dependencies
